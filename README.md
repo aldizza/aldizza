@@ -55,7 +55,7 @@
 
 
 ### Пет проекты и тестовые задания
-- Тестовое задание Cats SPA https://github.com/aldizza/AkatovTest
+- Тестовое задание Cats SPA https://github.com/aldizza/AkatovTest <img src="https://img.shields.io/badge/HTML5-gray?logo=html5&logoColor=white" alt="HTML5" title="HTML5"/> <img src="https://img.shields.io/badge/CSS3-gray?logo=css3&logoColor=white" alt="CSS3" title="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoColor=white" alt="JavaScript" title="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-gray?logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript"/> <img src="https://img.shields.io/badge/ReactJS-gray?logo=react&logoColor=white" alt="ReactJS" title="ReactJS"/> <img src="https://img.shields.io/badge/Redux-gray?logo=redux&logoColor=white" alt="Redux" title="Redux"/>
 ---
 
 ### 🌱 Сейчас я изучаю
